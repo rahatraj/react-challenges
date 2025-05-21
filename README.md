@@ -10,7 +10,7 @@ This repository is dedicated to solving various React challenges to enhance my R
 Each challenge is structured as an independent Vite React app for simplicity and isolation.
 
 react-challenges/
-├── challenge-01-basic-counter/
+├── challenge-01-offer-modal/
 ├── challenge-02-todo-app/
 ├── challenge-03-offer-modal/
 ├── challenge-04-user-card-grid/
@@ -60,11 +60,10 @@ Repeat steps 2–4 for each challenge folder.
 
 
 ## 📚 Challenge List
-Challenge	Description
-Challenge 01	Basic Counter App
-Challenge 02	Todo List App
-Challenge 03	Offer Modal Component
-Challenge 04	User Card Grid
+Challenge	    Description
+
+Challenge 01	Offer Modal Component
+Challenge 02	User Card Grid
 ...	More coming soon!
 
 Challenge descriptions and features are documented in their respective folder's README files.
